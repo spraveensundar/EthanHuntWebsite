@@ -16,7 +16,7 @@
 
 ![index html - Google Chrome 05-09-2023 08_47_52](https://github.com/spraveensundar/EthanHuntWebsite/assets/131776093/67517af9-8c65-4a44-950d-65f0dd30c5d2)
 
-![index html - Google Chrome 05-09-2023 08_47_55](https://github.com/spraveensundar/EthanHuntWebsite/assets/131776093/07481317-84b2-47b4-9ec8-66084cc03813)
+
 
 
 
